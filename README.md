@@ -6,7 +6,7 @@ building things that actually work.
 ---
 
 ## 🚀 What I'm Currently Doing
-- 📊 DSA in C++ — 375+ problems on LeetCode
+- 📊 DSA in C++ — 400+ problems on LeetCode
 - 🐍 Building real Python projects from scratch
 - ⚡ Learning FastAPI for backend development
 - 🌐 Moving towards Full Stack with React
