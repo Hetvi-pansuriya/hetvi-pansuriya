@@ -8,7 +8,7 @@ building things that actually work.
 ## 🚀 What I'm Currently Doing
 - 📊 DSA in C++ — 400+ problems on LeetCode
 - 🐍 Building real Python projects from scratch
-- ⚡ Learning FastAPI for backend development
+- ⚡ FastAPI — built complete CRUD REST API with SQLite ✅
 - 🌐 Moving towards Full Stack with React
 
 ---
@@ -26,7 +26,7 @@ building things that actually work.
 ![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge)
 
-### Backend (Learning)
+### Backend 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
 
 ### Database
@@ -49,6 +49,7 @@ building things that actually work.
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [Expense Tracker API](https://github.com/Hetvi-pansuriya/fastapi-learning) | REST API with full CRUD, FastAPI, SQLAlchemy, SQLite, Swagger docs | Python, FastAPI |
 | [Grade Calculator](https://github.com/Hetvi-pansuriya/Grade-Calculator) | CLI app to calculate average, highest and lowest marks | Python |
 | [Expense Tracker](https://github.com/Hetvi-pansuriya/Expense-Tracker) | CLI app to track daily expenses by category | Python |
 | [Instagram UI Clone](https://github.com/Hetvi-pansuriya/Instagram-clone) | Frontend clone of Instagram homepage | HTML, CSS |
@@ -60,7 +61,9 @@ building things that actually work.
 
 ## 📈 Goals for 2026-2027
 - ✅ Python CLI projects
-- 🔄 FastAPI + React - Full Stack
+- ✅ FastAPI + SQLite REST API
+- 🔄 React — Full Stack (in progress)
+- ⏳ PostgreSQL + Deploy
 - ⏳ MERN Stack
 - ⏳ AI and ML
 - ⏳ First internship or freelance client
