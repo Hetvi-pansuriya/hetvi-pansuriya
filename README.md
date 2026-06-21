@@ -49,6 +49,7 @@ building things that actually work.
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [Synora](https://github.com/Hetvi-pansuriya/synora) | AI-powered matrimonial matchmaker with Gemini API, matching algorithm, FastAPI backend | FastAPI, React, Gemini AI |
 | [Expense Tracker API](https://github.com/Hetvi-pansuriya/fastapi-learning) | REST API with full CRUD, FastAPI, SQLAlchemy, SQLite, Swagger docs | Python, FastAPI |
 | [Grade Calculator](https://github.com/Hetvi-pansuriya/Grade-Calculator) | CLI app to calculate average, highest and lowest marks | Python |
 | [Expense Tracker](https://github.com/Hetvi-pansuriya/Expense-Tracker) | CLI app to track daily expenses by category | Python |
