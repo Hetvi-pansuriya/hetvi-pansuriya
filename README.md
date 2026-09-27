@@ -1,76 +1,119 @@
-# 👋 Hi, I'm Hetvi Pansuriya
+<div>
 
-I am a Computer Science Engineering undergraduate with a passion for 
-building things that actually work.
+# Hey, I'm Hetvi Pansuriya
 
----
+**CS Engineering Undergrad · Aspiring Full-Stack Developer · DSA Enthusiast**
 
-## 🚀 What I'm Currently Doing
-- 📊 DSA in C++ — 400+ problems on LeetCode
-- 🐍 Building real Python projects from scratch
-- ⚡ FastAPI — built complete CRUD REST API with SQLite ✅
-- 🌐 Moving towards Full Stack with React
+Vadodara, Gujarat, India
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hetvi-pansuriya)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hetvi-pansuriya)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Hetvi-pansuriya/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetvipansuriya75@gmail.com)
 
-## 🧰 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-1E90FF?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
-
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge)
-
-### Backend 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-
-### Database
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)
-
-### Core CS
-![DSA](https://img.shields.io/badge/DSA-008080?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-800080?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-290980?style=for-the-badge)
-![OS](https://img.shields.io/badge/OS-000000?style=for-the-badge)
+</div>
 
 ---
 
-## 📂 Projects
+### About Me
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Synora](https://github.com/Hetvi-pansuriya/synora) | AI-powered matrimonial matchmaker with Gemini API, matching algorithm, FastAPI backend | FastAPI, React, Gemini AI |
-| [Expense Tracker API](https://github.com/Hetvi-pansuriya/fastapi-learning) | REST API with full CRUD, FastAPI, SQLAlchemy, SQLite, Swagger docs | Python, FastAPI |
-| [Grade Calculator](https://github.com/Hetvi-pansuriya/Grade-Calculator) | CLI app to calculate average, highest and lowest marks | Python |
-| [Expense Tracker](https://github.com/Hetvi-pansuriya/Expense-Tracker) | CLI app to track daily expenses by category | Python |
-| [Instagram UI Clone](https://github.com/Hetvi-pansuriya/Instagram-clone) | Frontend clone of Instagram homepage | HTML, CSS |
-| [Netflix UI Clone](https://github.com/Hetvi-pansuriya/Netflix-clone) | Frontend clone of Netflix landing page | HTML, CSS |
-| [Blinkit UI Clone](https://github.com/Hetvi-pansuriya/Blinkit-Clone) | Frontend clone of Blinkit homepage | HTML, CSS |
-| [Yucca.co.za Clone](https://github.com/Hetvi-pansuriya/yucca.co-clone) | Frontend clone of Yuccs website | HTML, CSS |
+- Computer Science Engineering undergraduate
+- 700+ DSA problems solved over multiple platforms.
+- Built and deployed full-stack apps with **FastAPI + React**, backed by **PostgreSQL**
+- Shipped AI features using both **Groq** and **Gemini** APIs in real projects
 
 ---
 
-## 📈 Goals for 2026-2027
-- ✅ Python CLI projects
-- ✅ FastAPI + SQLite REST API
-- 🔄 React — Full Stack (in progress)
-- ⏳ PostgreSQL + Deploy
-- ⏳ MERN Stack
-- ⏳ AI and ML
-- ⏳ First internship or freelance client
+### Tech Stack
+
+**Languages**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+
+**Frontend**
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+
+**Backend & Database**
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
+**AI & Tools**
+
+[![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com/)
+[![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 ---
 
-## 📫 Contact
-- 📧 hetvipansuriya75@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/hetvi-pansuriya)
+### What I'm Working On
+
+- Strengthening my DSA fundamentals through daily practice
+- Learning full-stack development, deepening React and exploring the MERN stack
+- Building real-world projects end to end, from backend to deployment
+- Looking for my first internship
+
+---
+
+### LeetCode Snapshot
+
+<div>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Hetvi-pansuriya?theme=dark&font=Baloo+2&extension=activity)
+
+</div>
+
+**Strong fundamentals:** Arrays · Strings · Sorting · Hash Table · Greedy
+
+**Currently leveling up:** Dynamic Programming · Graphs · Union-Find
+
+---
+
+### Featured Projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| [**PricePilot**](https://github.com/Hetvi-pansuriya/pricepilot) | AI-powered SaaS pricing analyzer with revenue sensitivity modeling, AI feature-tier audits, competitor benchmarking & PDF reports | FastAPI, React, PostgreSQL, Groq AI |
+| [**Synora**](https://github.com/Hetvi-pansuriya/synora) | AI-powered matrimonial matchmaker with a custom matching algorithm | FastAPI, React, Gemini AI |
+| [**Expense Tracker API**](https://github.com/Hetvi-pansuriya/fastapi-learning) | Full CRUD REST API with auto-generated Swagger docs | FastAPI, SQLAlchemy, SQLite |
+| [**Grade Calculator**](https://github.com/Hetvi-pansuriya/Grade-Calculator) | CLI tool that computes average, highest & lowest marks | Python |
+| [**Expense Tracker (CLI)**](https://github.com/Hetvi-pansuriya/Expense-Tracker) | Command-line app to log and categorize daily expenses | Python |
+| UI Clones: [Instagram](https://github.com/Hetvi-pansuriya/Instagram-clone) · [Netflix](https://github.com/Hetvi-pansuriya/Netflix-clone) · [Blinkit](https://github.com/Hetvi-pansuriya/Blinkit-Clone) | Pixel-focused frontend recreations to sharpen layout & CSS skills | HTML, CSS |
+
+---
+
+### GitHub Activity
+
+<div>
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Hetvi-pansuriya&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+### Let's Connect
+
+<div>
+
+
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hetvi-pansuriya)
+[![Gmail](https://img.shields.io/badge/-Say_Hi_by_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetvipansuriya75@gmail.com)
+
+</div>
+
+---
+
+Thanks for visiting my profile!
