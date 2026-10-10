@@ -18,7 +18,7 @@ Vadodara, Gujarat, India
 ### About Me
 
 - Computer Science Engineering undergraduate
-- 700+ DSA problems solved over multiple platforms.
+- 750+ DSA problems solved over multiple platforms.
 - Built and deployed full-stack apps with **FastAPI + React**, backed by **PostgreSQL**
 - Shipped AI features using both **Groq** and **Gemini** APIs in real projects
 
@@ -84,7 +84,8 @@ Vadodara, Gujarat, India
 
 | Project | What it does | Built with |
 |---|---|---|
-| [**PricePilot**](https://github.com/Hetvi-pansuriya/pricepilot) | AI-powered SaaS pricing analyzer with revenue sensitivity modeling, AI feature-tier audits, competitor benchmarking & PDF reports | FastAPI, React, PostgreSQL, Groq AI |
+| [**NotifyHub**](https://github.com/Hetvi-pansuriya/notifyhub) | Multi-tenant email notification service with a durable PostgreSQL queue, priority delivery, retries, idempotent events, per-client API keys & admin console | FastAPI, React, PostgreSQL, SendGrid |
+| [**PriceLens**](https://github.com/Hetvi-pansuriya/pricelens) | Pricing analyzer for subscription businesses with revenue scenario modeling, feature placement audit, live competitor benchmarking, ranked pricing strategies & PDF reports | FastAPI, React, PostgreSQL, Groq |
 | [**Synora**](https://github.com/Hetvi-pansuriya/synora) | AI-powered matrimonial matchmaker with a custom matching algorithm | FastAPI, React, Gemini AI |
 | [**Expense Tracker API**](https://github.com/Hetvi-pansuriya/fastapi-learning) | Full CRUD REST API with auto-generated Swagger docs | FastAPI, SQLAlchemy, SQLite |
 | [**Grade Calculator**](https://github.com/Hetvi-pansuriya/Grade-Calculator) | CLI tool that computes average, highest & lowest marks | Python |
